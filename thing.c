@@ -17,6 +17,6 @@ void func1()
 
 void func2()
 {
-	printf("bbbbb\n");
+	printf("22222\n");
 }
 
