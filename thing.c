@@ -12,7 +12,7 @@ int main(int argc, char** argv)
 
 void func1()
 {
-	printf("111111\n");
+	printf("33333\n");
 }
 
 void func2()
