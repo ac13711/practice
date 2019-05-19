@@ -12,11 +12,11 @@ int main(int argc, char** argv)
 
 void func1()
 {
-	printf("333333\n");
+	printf("1\n");
 }
 
 void func2()
 {
-	printf("44444\n");
+	printf("2\n");
 }
 
